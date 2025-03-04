@@ -1,63 +1,56 @@
+https://pubmed.ncbi.nlm.nih.gov/30541089/
+https://pubmed.ncbi.nlm.nih.gov/8463878/
+https://pubmed.ncbi.nlm.nih.gov/34834074/
+https://pubmed.ncbi.nlm.nih.gov/37030416/
+https://pubmed.ncbi.nlm.nih.gov/19022954/
+https://pubmed.ncbi.nlm.nih.gov/26452518/
+
+
+
 https://alice.yandex.ru/chat/019552f8-59a9-4000-ab51-2a7e8228f467/?nr=1&redirect_ts=1712926396.00000
 Вот список конкретных научных статей по гидроксилированию холекальциферола в печени:
 
     “Vitamin D Metabolism: From Endogenous and Exogenous Sources to the Active Form”
-
     Описывает полный путь гидроксилирования в печени
-
     Фокус на ферментативных механизмах
 
     “Hepatic 25-Hydroxylation of Vitamin D: Molecular Mechanisms and Physiological Significance”
-
     Детальное описание первого этапа гидроксилирования
-
     Роль ферментов CYP2R1
 
     “Regulation of 25-Hydroxyvitamin D Formation in Human Liver”
-
     Изучение регуляции процесса гидроксилирования
-
     Клинические аспекты
 
     “The Role of CYP27A1 in Vitamin D Metabolism in the Liver”
-
     Исследование альтернативных путей гидроксилирования
-
     Влияние генетических факторов
 
     “25-Hydroxyvitamin D Synthesis in Human Hepatocytes: A Comprehensive Review”
-
     Экспериментальные данные
-
     Молекулярные механизмы
 
     “Vitamin D Activation and Inactivation in the Liver: A Delicate Balance”
-
     Взаимодействие между активацией и инактивацией
-
     Клиническое значение
 
     “Hepatic Metabolism of Vitamin D: From Basic Mechanisms to Clinical Implications”
-
     Полный обзор процессов
-
     Практическое применение
 
 Для доступа к полным текстам рекомендуется использовать:
 PubMed (https://pubmed.ncbi.nlm.nih.gov/)
 ResearchGate (https://www.researchgate.net/)
 Google Scholar (https://scholar.google.com/)
+ScienceDirect https://www.sciencedirect.com/
+
 
 При поиске можно использовать следующие ключевые слова:
-
+    "24,25-dihydroxycholecalciferol"
     25-Hydroxylation of vitamin D
-
     Hepatic vitamin D metabolism
-
     CYP2R1
-
     Vitamin D hydroxylation enzymes
-
     Liver vitamin D activation
 
 Эти статьи предоставят детальную информацию о биохимических путях гидроксилирования холекальциферола в печени, включая молекулярные механизмы, регуляцию процесса и клиническое значение.
